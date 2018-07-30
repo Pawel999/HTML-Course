@@ -1,2 +1,2 @@
 # HTML-Course
-HTML code from course 
+HTML code from course.
